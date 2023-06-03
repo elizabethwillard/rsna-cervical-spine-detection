@@ -22,7 +22,7 @@ This project is based off of the Kaggle link included above.
 
 ### Technical 
 
-The operating system is Windows 11 w/ WSL and the package manager is <a href="https://python-poetry.org/">Poetry</a>.  
+The operating system is Windows 11 w/ WSL and the package manager is miniconda
 
 ---
 #### Acknowledgements:
